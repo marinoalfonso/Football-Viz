@@ -1,6 +1,7 @@
 # Football-Viz
 
-The repository contains codes for some of the soccer analysis I post on my personal social profiles. The visualizations are done mostly on Python, using Matplotlib and Mplsoccer.
+The repository contains codes for some of the soccer analysis I post on my personal social profiles ( [LinkedIn](https://www.linkedin.com/in/alfonso-marino-a5411b2b8/), [Instagram](https://www.instagram.com/romperelalinea/), [Twitter](https://x.com/AlfoMarino0975) )
+. The visualizations are done mostly on Python, using Matplotlib and Mplsoccer.
 
 ## Visuals
 ### Map of Theo Hernandez's goals. ([Shotmap](Shotmap))
