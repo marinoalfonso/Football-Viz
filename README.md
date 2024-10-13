@@ -19,6 +19,9 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](StackedBarplot/figures/grafico_tiri_squadre.png)
 
 
+### After how many touches in the offensive third do you get a shot? ([ScatterplotLogo](SCatterplotLogo))
+![Descrizione immagine](SCatterplotLogo/figures/scatter_tiri.png)
+
 
 
 
