@@ -28,6 +28,11 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](ScatterPlotPlayers/figures/scatterplot_pisilli.png)
 
 
+### What does Pisilli do in the opposing half of the field? ([EventsPitch](EventsPitch)]
+![Descrizione immagine](EventsPitch/figures/pisilli3rd.png)
+
+
+
 
 
 
