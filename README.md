@@ -24,5 +24,10 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](SCatterplotLogo/figures/scatter_tiri.png)
 
 
+### Who are the best young people for offensive production? ([ScatterPlotPlayers](ScatterPlotPlayers)]
+![Descrizione immagine](ScatterPlotPlayers/figures/scatterplot_pisilli.png)
+
+
+
 
 
