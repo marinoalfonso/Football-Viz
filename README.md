@@ -9,7 +9,7 @@ The repository contains codes for some of the soccer analysis I post on my perso
 
 
 ### Comparison of shots made and shots taken. ([Cleveland chart](ClevelandChart))
-![Descrizione immagine](ClevelandChart/figures/cleveland_squadre.png)
+![Descrizione immagine](ClevelandChart/figures/cleveland_assist.png)
 
 
 ### Heat map of Abraham. ([Heatmap](Heatmap))
