@@ -32,6 +32,10 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](EventsPitch/figures/pisilli3rd.png)
 
 
+### Distribution of SCA Take-Ons among big 5 European Leagues. ([Beeswarm](Beeswarm)]
+![Descrizione immagine](Beeswarm/figures/beeswarm_sca.png)
+
+
 
 
 
