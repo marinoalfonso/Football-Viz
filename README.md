@@ -16,7 +16,7 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](Heatmap/figures/abraham_heatmap.png)
 
 
-### Where do Series A teams shoot from? ([StackedBarplot](StackedBarplot))
+### Goals vs xG ([StackedBarplot](StackedBarplot))
 ![Descrizione immagine](StackedBarplot/figures/barplotxg.png)
 
 
