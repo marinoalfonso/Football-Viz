@@ -17,7 +17,7 @@ The repository contains codes for some of the soccer analysis I post on my perso
 
 
 ### Where do Series A teams shoot from? ([StackedBarplot](StackedBarplot))
-![Descrizione immagine](StackedBarplot/figures/grafico_tiri_squadre.png)
+![Descrizione immagine](StackedBarplot/barplot.ipynb)
 
 
 ### After how many touches in the offensive third do you get a shot? ([ScatterplotLogo](SCatterplotLogo))
