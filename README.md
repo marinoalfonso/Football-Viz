@@ -13,7 +13,7 @@ The repository contains codes for some of the soccer analysis I post on my perso
 
 
 ### Heat map of Abraham. ([Heatmap](Heatmap))
-![Descrizione immagine](Heatmap/figures/abraham_heatmap.png)
+![Descrizione immagine](Heatmap/figures/heatmap_touch.png)
 
 
 ### Goals vs xG ([StackedBarplot](StackedBarplot))
