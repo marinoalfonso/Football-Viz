@@ -12,7 +12,7 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](ClevelandChart/figures/cleveland_assist.png)
 
 
-### Heat map of Abraham. ([Heatmap](Heatmap))
+### Heatmap comparison. ([Heatmap](Heatmap))
 ![Descrizione immagine](Heatmap/figures/heatmap_touch.png)
 
 
