@@ -11,6 +11,9 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ### Comparison of shots made and shots taken. ([Cleveland chart](ClevelandChart))
 ![Descrizione immagine](ClevelandChart/figures/cleveland_assist.png)
 
+### Map of Nuno Tavares' passes and assists. ([PassMap](PassMap))
+![Descrizione immagine](PassMap/figures/pitch_nuno.png)
+
 
 ### Heatmap comparison. ([Heatmap](Heatmap))
 ![Descrizione immagine](Heatmap/figures/heatmap_touch.png)
