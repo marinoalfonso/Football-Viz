@@ -5,7 +5,7 @@ The repository contains codes for some of the soccer analysis I post on my perso
 
 ## Visuals
 
-### Map of touch percentage.
+### Map of touch percentage. ([Percentage Touch](Percentage Touch))
 ![Descrizione immagine](Shotmap/figures/theo_shot_plot.png)
 
 ### Map of Theo Hernandez's goals. ([Shotmap](Shotmap))
