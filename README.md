@@ -32,7 +32,7 @@ The repository contains codes for some of the soccer analysis I post on my perso
 
 
 ### Who are the best young people for offensive production? ([ScatterPlotPlayers](ScatterPlotPlayers)]
-![Descrizione immagine](ScatterPlotPlayers/figures/scatterplot_pisilli.png)
+![Descrizione immagine](ScatterPlotPlayers/figures/scatterplot_david.png)
 
 
 ### What does Pisilli do in the opposing half of the field? ([EventsPitch](EventsPitch)]
