@@ -12,12 +12,12 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](Shotmap/figures/retegui_shot_plot.png)
 
 
-### Comparison of shots made and shots taken. ([Cleveland chart](ClevelandChart))
-![Descrizione immagine](ClevelandChart/figures/cleveland_assist.png)
-
 ### Map of Nuno Tavares' passes and assists. ([PassMap](PassMap))
 ![Descrizione immagine](PassMap/figures/pitch_nuno.png)
 
+
+### Who are the best forward for Juventus? ([ScatterPlotPlayers](ScatterPlotPlayers)]
+![Descrizione immagine](ScatterPlotPlayers/figures/scatterplot_david.png)
 
 ### Heatmap comparison. ([Heatmap](Heatmap))
 ![Descrizione immagine](Heatmap/figures/heatmap_touch.png)
@@ -27,20 +27,19 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](StackedBarplot/figures/barplotxg.png)
 
 
+### Distribution of SCA Take-Ons among big 5 European Leagues. ([Beeswarm](Beeswarm)]
+![Descrizione immagine](Beeswarm/figures/beeswarm_sca.png)
+
 ### After how many touches in the offensive third do you get a shot? ([ScatterplotLogo](SCatterplotLogo))
 ![Descrizione immagine](SCatterplotLogo/figures/scatter_tiri.png)
-
-
-### Who are the best young people for offensive production? ([ScatterPlotPlayers](ScatterPlotPlayers)]
-![Descrizione immagine](ScatterPlotPlayers/figures/scatterplot_david.png)
 
 
 ### What does Pisilli do in the opposing half of the field? ([EventsPitch](EventsPitch)]
 ![Descrizione immagine](EventsPitch/figures/pisilli3rd.png)
 
+### Comparison of shots made and shots taken. ([Cleveland chart](ClevelandChart))
+![Descrizione immagine](ClevelandChart/figures/cleveland_assist.png)
 
-### Distribution of SCA Take-Ons among big 5 European Leagues. ([Beeswarm](Beeswarm)]
-![Descrizione immagine](Beeswarm/figures/beeswarm_sca.png)
 
 
 
