@@ -11,6 +11,9 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ### Map of Jonathan David's shots. ([Shotmap](Shotmap))
 ![Descrizione immagine](Shotmap/figures/retegui_shot_plot.png)
 
+### How many points are necessary to avoid relegation in Serie B? ([LinePlot](LinePlot))
+![Descrizione immagine](LinePlot/figures/17posto.png)
+
 
 ### Map of Nuno Tavares' passes and assists. ([PassMap](PassMap))
 ![Descrizione immagine](PassMap/figures/pitch_nuno.png)
