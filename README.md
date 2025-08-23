@@ -19,6 +19,9 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ![Descrizione immagine](PassMap/figures/pitch_nuno.png)
 
 
+### PPDA in Serie A. ([Barplot_Line](Barplot_Line))
+![Descrizione immagine](Barplot_Line/figures/ppda_barplot.png)
+
 ### Who are the best forward for Juventus? ([ScatterPlotPlayers](ScatterPlotPlayers)]
 ![Descrizione immagine](ScatterPlotPlayers/figures/scatterplot_david.png)
 
