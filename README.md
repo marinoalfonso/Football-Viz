@@ -25,8 +25,8 @@ The repository contains codes for some of the soccer analysis I post on my perso
 ### Who are the best forward for Juventus? ([ScatterPlotPlayers](ScatterPlotPlayers)]
 ![Descrizione immagine](ScatterPlotPlayers/figures/scatterplot_david.png)
 
-### Heatmap comparison. ([Heatmap](Heatmap))
-![Descrizione immagine](Heatmap/figures/heatmap_touch.png)
+### Player heatmap. ([Heatmap](Heatmap))
+![Descrizione immagine](Heatmap/figures/heatmap_elaynoui.png)
 
 
 ### Goals vs xG ([StackedBarplot](StackedBarplot))
